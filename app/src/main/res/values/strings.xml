@@ -2,11 +2,34 @@
     <string name="app_name">AutoScrollTwitter</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
+    <string name="top_fragment_label">Top Menu</string>
+    <string name="timeline_fragment_label">Auto Scrolling…</string>
+    <string name="search_fragment_label">Search</string>
+    <string name="post_fragment_label">Post</string>
+
+    <string name="timeline">Timeline</string>
+    <string name="search">Search</string>
     <string name="previous">Previous</string>
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="argument_show_fab">ShowFab</string>
+    <string name="argument_show_option">ShowOption</string>
+    <string name="argument_fab_icon_id">FabIconId</string>
+    <string name="argument_fab_action_id">FabActionId</string>
 </resources>
